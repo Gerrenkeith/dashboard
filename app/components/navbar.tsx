@@ -5,8 +5,26 @@ const Navbar = () => {
   return (
     <div>
         <nav>
-            <Link href="/">Home</Link>
-            <Link href="/dashboard/sports">Sports</Link>
+            <ul>
+                <li>
+                    <Link href="/">Home</Link>
+                </li>
+                <li>
+                    <Link href="/reels">Reels</Link>
+                </li>
+                <li>
+                    <Link href="/marketplace">Marketplace</Link>
+                </li>
+                <li>
+                    <Link href="/events">Events</Link>
+                </li>
+                <li>
+                    <Link href="/notifications">Notifications</Link>
+                </li>
+                <li>
+                    <Link href="/profile">Profile</Link>
+                </li>
+            </ul>
         </nav>
     </div>
   );

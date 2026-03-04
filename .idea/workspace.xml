@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a907032-e80a-4539-afc7-4940fcb438f6" name="Changes" comment="Initial commit" />
+    <list default="true" id="0a907032-e80a-4539-afc7-4940fcb438f6" name="Changes" comment="Initial comm">
+      <change afterPath="$PROJECT_DIR$/app/events/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/marketplace/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/notifications/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/profile/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reels/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/sports/page.tsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Gerrenkeith"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Gerrenkeith/dashboard.git",
+    "accountId": "637bb8b5-861f-43e5-af1a-a69daf9f9c8e"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gerre\projects\dashboard\app" />
       <recent name="C:\Users\gerre\projects\dashboard\app\dashboard\about" />
     </key>
   </component>
@@ -87,7 +110,7 @@
       <workItem from="1772337355445" duration="431000" />
       <workItem from="1772417002946" duration="2081000" />
       <workItem from="1772554686580" duration="1616000" />
-      <workItem from="1772556952715" duration="1384000" />
+      <workItem from="1772556952715" duration="7426000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -97,15 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772558206715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial comm">
+      <option name="closed" value="true" />
+      <created>1772558543357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772558543357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial comm" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Initial comm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial comm" />
   </component>
 </project>
